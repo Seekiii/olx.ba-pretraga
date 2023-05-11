@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "category_id": 18,
+            "score": null,
+            "id": 51912353,
+            "type": "single",
+            "title": "BMW 530d F10 Full -TOP STANJE-",
+            "price": 29990,
+            "display_price": "29.990 KM",
+            "price_max": 0,
+            "date": 1683834547,
+            "image": "https://d4n0y8dshd77z.cloudfront.net/listings/51912353/sm/4C7926EF-D3FF-4BA8-8-3c0684ab478a.jpeg",
+            "sponsored": 2,
+            "available": true,
+            "visible": true,
+            "shipping": 0,
+            "user_type": "shop",
+            "user_id": 75163,
+            "state": "used",
+            "status": "active",
+            "location": null,
+            "labels": [
+                "Dizel",
+                241000
+            ],
+            "listing_type": "sell",
+            "special_labels": [
+                {
+                    "value": "dizel",
+                    "label": "Gorivo",
+                    "unit": null
+                },
+                {
+                    "value": "241.000",
+                    "label": "Kilometra\u017ea",
+                    "unit": "km"
+                },
+                {
+                    "value": 2010,
+                    "label": "Godi\u0161te",
+                    "unit": null
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "total": 6,
+        "last_page": 6,
+        "current_page": 1,
+        "per_page": 1,
+        "selected_category": 0
+    },
+    "aggregations": {
+        "categories": [
+            {
+                "id": 1,
+                "name": "Vozila",
+                "count": 5,
+                "sub_categories": [
+                    {
+                        "id": 18,
+                        "name": "Automobili",
+                        "count": 5,
+                        "parent_name": "Vozila"
+                    }
+                ]
+            },
+            {
+                "id": 928,
+                "name": "Dijelovi i oprema za vozila",
+                "count": 1,
+                "sub_categories": [
+                    {
+                        "id": 941,
+                        "name": "Sjedi\u0161ta",
+                        "count": 1,
+                        "parent_name": "Za automobile"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "data": [
+        {
+            "category_id": 18,
+            "score": null,
+            "id": 53100815,
+            "type": "single",
+            "title": "Audi SQ7 ABT 382 KW",
+            "price": 94000,
+            "display_price": "94.000 KM",
+            "price_max": 0,
+            "date": 1683836768,
+            "image": "https://d4n0y8dshd77z.cloudfront.net/listings/53100815/sm/img-1683282995-681c6b98151d.jpg",
+            "sponsored": 2,
+            "available": true,
+            "visible": true,
+            "shipping": 0,
+            "user_type": "user",
+            "user_id": 3227530,
+            "state": "none",
+            "status": "active",
+            "location": null,
+            "labels": [
+                "Dizel",
+                227000
+            ],
+            "listing_type": "sell",
+            "special_labels": [
+                {
+                    "value": "dizel",
+                    "label": "Gorivo",
+                    "unit": null
+                },
+                {
+                    "value": "227.000",
+                    "label": "Kilometra\u017ea",
+                    "unit": "km"
+                },
+                {
+                    "value": 2018,
+                    "label": "Godi\u0161te",
+                    "unit": null
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "total": 65580,
+        "last_page": 65580,
+        "current_page": 1,
+        "per_page": 1,
+        "selected_category": 1
+    },
+    "aggregations": {
+        "categories": [
+            {
+                "id": 1,
+                "name": "Vozila",
+                "count": 65580,
+                "selected": true,
+                "sub_categories": [
+                    {
+                        "id": 18,
+                        "name": "Automobili",
+                        "parent_id": 1,
+                        "selected": false
+                    },
+                    {
+                        "id": 20,
+                        "name": "Teretna vozila",
+                        "parent_id": 1,
+                        "selected": false
+                    },
+                    {
+                        "id": 21,
+                        "name": "Motocikli",
+                        "parent_id": 1,
+                        "selected": false
+                    },
+                    {
+                        "id": 22,
+                        "name": "Bicikli",
+                        "parent_id": 1,
+                        "selected": false
+                    },
+                    {
+                        "id": 426,
+                        "name": "Nautika",
+                        "parent_id": 1,
+                        "selected": false
+                    },
+                    {
+                        "id": 883,
+                        "name": "Kamperi",
+                        "parent_id": 1,
+                        "selected": false
+                    },
+                    {
+                        "id": 884,
+                        "name": "Prikolice",
+                        "parent_id": 1,
+                        "selected": false
+                    },
+                    {
+                        "id": 1040,
+                        "name": "Autobusi i minibusi",
+                        "parent_id": 1,
+                        "selected": false
+                    },
+                    {
+                        "id": 2127,
+                        "name": "Motorne sanke",
+                        "parent_id": 1,
+                        "selected": false
+                    },
+                    {
+                        "id": 2457,
+                        "name": "ATV / UTV / Quad",
+                        "parent_id": 1,
+                        "selected": false
+                    }
+                ]
+            }
+        ]
+    }
+}
