@@ -62,86 +62,7 @@
                 }
             ]
         }
-    ],
-    "meta": {
-        "total": 65580,
-        "last_page": 65580,
-        "current_page": 1,
-        "per_page": 1,
-        "selected_category": 1
-    },
-    "aggregations": {
-        "categories": [
-            {
-                "id": 1,
-                "name": "Vozila",
-                "count": 65580,
-                "selected": true,
-                "sub_categories": [
-                    {
-                        "id": 18,
-                        "name": "Automobili",
-                        "parent_id": 1,
-                        "selected": false
-                    },
-                    {
-                        "id": 20,
-                        "name": "Teretna vozila",
-                        "parent_id": 1,
-                        "selected": false
-                    },
-                    {
-                        "id": 21,
-                        "name": "Motocikli",
-                        "parent_id": 1,
-                        "selected": false
-                    },
-                    {
-                        "id": 22,
-                        "name": "Bicikli",
-                        "parent_id": 1,
-                        "selected": false
-                    },
-                    {
-                        "id": 426,
-                        "name": "Nautika",
-                        "parent_id": 1,
-                        "selected": false
-                    },
-                    {
-                        "id": 883,
-                        "name": "Kamperi",
-                        "parent_id": 1,
-                        "selected": false
-                    },
-                    {
-                        "id": 884,
-                        "name": "Prikolice",
-                        "parent_id": 1,
-                        "selected": false
-                    },
-                    {
-                        "id": 1040,
-                        "name": "Autobusi i minibusi",
-                        "parent_id": 1,
-                        "selected": false
-                    },
-                    {
-                        "id": 2127,
-                        "name": "Motorne sanke",
-                        "parent_id": 1,
-                        "selected": false
-                    },
-                    {
-                        "id": 2457,
-                        "name": "ATV / UTV / Quad",
-                        "parent_id": 1,
-                        "selected": false
-                    }
-                ]
-            }
-        ]
-    }
+    ]
 }
 
 ```
@@ -194,44 +115,7 @@
                 }
             ]
         }
-    ],
-    "meta": {
-        "total": 6,
-        "last_page": 6,
-        "current_page": 1,
-        "per_page": 1,
-        "selected_category": 0
-    },
-    "aggregations": {
-        "categories": [
-            {
-                "id": 1,
-                "name": "Vozila",
-                "count": 5,
-                "sub_categories": [
-                    {
-                        "id": 18,
-                        "name": "Automobili",
-                        "count": 5,
-                        "parent_name": "Vozila"
-                    }
-                ]
-            },
-            {
-                "id": 928,
-                "name": "Dijelovi i oprema za vozila",
-                "count": 1,
-                "sub_categories": [
-                    {
-                        "id": 941,
-                        "name": "Sjedi\u0161ta",
-                        "count": 1,
-                        "parent_name": "Za automobile"
-                    }
-                ]
-            }
-        ]
-    }
+    ]
 }
 ```
 
